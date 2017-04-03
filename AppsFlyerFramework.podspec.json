@@ -24,7 +24,7 @@
   ],
   "preserve_paths": "AppsFlyerLib.framework",
   "vendored_frameworks": "AppsFlyerLib.framework",
-  "public_header_files": "AppsFlyerFramework/AppsFlyerTracker.framework/Headers/**/*.h",
+  "public_header_files": "AppsFlyerFramework/AppsFlyerLib.framework/Headers/*.h",
   "platforms": {
     "ios": "7.0"
   }
